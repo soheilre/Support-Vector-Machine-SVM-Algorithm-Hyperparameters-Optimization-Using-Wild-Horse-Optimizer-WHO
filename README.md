@@ -12,10 +12,16 @@ first, you can use any dataset with edinting Main.m file and then click on Run
 
 ## Original Reference Paper
 
-you can read about this algorithm from below link:
+You can read about this algorithm from below link:
 https://link.springer.com/article/10.1007/s00366-021-01438-z
 
 ## Original Reference Code
 
 Original MATLAB code that development by iraj Naruei in 2021:
 https://www.mathworks.com/matlabcentral/fileexchange/90787-wild-horse-optimizer?s_tid=srchtitle
+
+Complete codes are coming soon
+
+## Contact Me
+soheilshoar@gmail.com
+Telegram ID: @trafficengineer
