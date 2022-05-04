@@ -2,7 +2,7 @@
 
 ## About Project
 
-In this project we development optimising support vector machine algorithm hyperparameters (kernel,c,gamma) in classification problems with using Wild Horse Optimizer as powerful and fast * metaheuristic algorithm for solving engineering optimization problems
+In this project we development optimising support vector machine algorithm hyperparameters (kernel,c,gamma) in classification problems with using Wild Horse Optimizer as powerful and fast metaheuristic algorithm for solving engineering optimization problems
 
 ## How to Use
 
