@@ -1,2 +1,10 @@
 # SVM-Hyperparameters-Optimization-Using-Wild-Horse-Optimizer
-SVM Hyperparameters Optimization Using Wild Horse Optimizer in MATLAB 2020a
+Hello every one
+In this project we development optimising svm hyperparameters (kernel,c,gamma) in classification problems with using Wild Horse Optimizer as powerful and fast metaheuristic algorithm for solving engineering optimization problems
+It's tested in MATLAB 2022a
+you can read about this algorithm from below link:
+https://link.springer.com/article/10.1007/s00366-021-01438-z
+Original MATLAB code that development by iraj Naruei in 2021:
+https://www.mathworks.com/matlabcentral/fileexchange/90787-wild-horse-optimizer?s_tid=srchtitle
+Complete codes coming soon...
+Thanks
