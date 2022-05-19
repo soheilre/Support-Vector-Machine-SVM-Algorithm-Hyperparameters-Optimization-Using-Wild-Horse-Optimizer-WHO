@@ -1,4 +1,4 @@
-# Support Vector Machine (SVM) Algorithm Hyperparameters Optimization Using Wild Horse Optimizer
+# Support Vector Machine (SVM) Algorithm Hyperparameters Optimization Using Wild Horse Optimizer (WHO)
 
 ## About Project
 
