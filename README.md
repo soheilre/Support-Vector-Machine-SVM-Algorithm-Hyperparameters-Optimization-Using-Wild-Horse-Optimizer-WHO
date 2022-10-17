@@ -18,7 +18,7 @@ https://link.springer.com/article/10.1007/s00366-021-01438-z
 
 ## Original Reference Code
 
-Original MATLAB code that development by iraj Naruei in 2021:
+Original MATLAB code that development by Iraj Naruei in 2021:
 
 https://www.mathworks.com/matlabcentral/fileexchange/90787-wild-horse-optimizer?s_tid=srchtitle
 
